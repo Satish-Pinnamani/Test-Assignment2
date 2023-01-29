@@ -10,4 +10,9 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 1. Raina
 1. Jadeja
 
+## Other Teams
+* RCB
+* MI
+* SRH
+
 
