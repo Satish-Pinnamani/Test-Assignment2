@@ -15,6 +15,14 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 * MI
 * SRH
 
+---
+#### Countries to visit
+| Country | Reason | Days |
+|   ---   |   ---  |  --- |
+| India | Home | 100 |
+| USA | Second Home | 99 |
+| France |  R3 | 88 |
+
 [AboutMe](AboutMe.md)
 
 
