@@ -23,6 +23,17 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 | USA | Second Home | 99 |
 | France |  R3 | 88 |
 
+---
+#### Fun Quotes
+> Having fun doesn't mean happy
+>> ~ *Satish Pinnamani*
+
+> Todays hard times looks like funny when they become memories
+>> ~ *Satish Pinnamani*
+
+> What you feel right today might not be tomorrow
+>> ~ *Satish Pinnamani*
+
 [AboutMe](AboutMe.md)
 
 
