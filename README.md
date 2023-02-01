@@ -26,7 +26,7 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 ---
 #### Fun Quotes
 > Having fun doesn't mean happy
->> ~ *Satish Pinnamani*
+<br> ~ *Satish Pinnamani*
 
 > Todays hard times looks like funny when they become memories
 >> ~ *Satish Pinnamani*
@@ -34,6 +34,27 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 > What you feel right today might not be tomorrow
 >> ~ *Satish Pinnamani*
 
+---
+## Apply Custom CSS to Admin Area
+
+> How do i add custom css and js files to admin area of wordpress
+ [Stackoverflow](https://stackoverflow.com/questions/18553610/how-do-i-add-custom-css-and-js-files-to-admin-area-of-wordpress)
+
+```
+add_action('admin_head', 'my_custom_fonts');
+
+function my_custom_fonts() {
+  echo '<style>
+    body, td, textarea, input, select {
+      font-family: "Lucida Grande";
+      font-size: 12px;
+    } 
+  </style>';
+}
+```
+[css-tricks](https://css-tricks.com/snippets/wordpress/apply-custom-css-to-admin-area/)
+
+---
 [AboutMe](AboutMe.md)
 
 
